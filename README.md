@@ -1,7 +1,7 @@
 # 🚀 David Alejandro Carrión Rincón
 
 <!-- Espacio reservado para banner personalizado -->
-![Banner](https://via.placeholder.com/1200x300/0d1117/58a6ff?text=Desarrollador+Fullstack+%7C+Arquitectura+Moderna+%7C+Microservicios)
+![Banner](https://github.com/AlejandroXCoder/AlejandroXCoder/blob/main/assets/banner.svg)
 
 <div align="center">
 
