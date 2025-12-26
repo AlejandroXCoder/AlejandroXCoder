@@ -14,6 +14,19 @@
 
 ---
 
+# My portafolio personal
+
+Portafolio personal. Un sitio moderno, minimalista y con animaciones suaves para presentar experiencia, proyectos y contacto.
+
+**🌐 Visita el sitio en vivo:** [https://portfolio-alejandro-carrion.vercel.app](https://portfolio-alejandro-carrion.vercel.app)
+
+<p align="center">
+	<img src="https://github.com/AlejandroXCoder/portfolio/blob/main/public/portfolio.png?raw=1" alt="Portada del portafolio" width="920" />
+	<br/>
+</p>
+
+---
+
 ## <picture><img src = "https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExejYweHp4ZnFkZHhqZmJoa25xMzhwODVjdmd0ZGRmMnFib2t6NXA1NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/7EMuTfl61WDzFwar6G/giphy.gif" width = 50px></picture> About me
 
 <img src="https://github.com/AlejandroXCoder/AlejandroXCoder/blob/main/assets/avatar.png" 
